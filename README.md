@@ -25,8 +25,6 @@ This project follows layered architecture:
 - **Java**
 - **Spring Boot**
 - **MySQL**
-- **JPA/Hibernate**
-- **DTOs (Data Transfer Objects)**
 - **Postman** for testing APIs
 
 ## 📂 Folder Structure
